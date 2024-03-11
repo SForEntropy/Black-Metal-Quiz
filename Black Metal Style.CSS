@@ -1,0 +1,70 @@
+/*  #ID .class  */
+
+* {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: blackMetalFont;
+    src: url(TrashGrislyDemo-qZGw5.ttf);
+}
+
+body {
+    background-image: url(Trees\ background.jpg);
+}
+
+#headingBox {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.box {
+    background-color: black;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    padding-top: 1px;
+
+}
+
+#h1 {
+
+    font-family: blackMetalFont;
+    font-size: 100px;
+}
+
+.h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#button {
+    background-color: white;
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.buttonBox {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#button:hover {
+    background-color: gray;
+
+}
